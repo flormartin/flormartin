@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @flormartin, welcome to my GitHub profile!
+- 👀 I’m interested in in intelligent robot applications, especially the ones improving sustainability
+- 🌱 I’m currently learning ROS2
+- :speech_balloon: Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/flomartineau)!
